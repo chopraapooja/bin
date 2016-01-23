@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hello"
+rm -rf ~/.emacs.d
+rm ~/.emacs
